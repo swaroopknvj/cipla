@@ -5,4 +5,5 @@ fkfnrkfnknkn in master
 =======
 from bug fix i commiting 
 >>>>>>> bugfix
+heloo in banglore
 
